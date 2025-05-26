@@ -23,7 +23,7 @@
 <itunes:subtitle>Today's AI News</itunes:subtitle>
 <itunes:summary>Latest developments in artificial intelligence and technology</itunes:summary>
 <description>Latest developments in artificial intelligence and technology</description>
-<enclosure url="YOUR_MP3_URL_HERE" length="1000000" type="audio/mpeg"/>
+<enclosure url="https://github.com/greghughespdx/audio-tldr/raw/refs/heads/main/tldr_podcast_2025-05-26_complete.mp3" length="1000000" type="audio/mpeg"/>
 <guid>tldr-ai-2025-05-26</guid>
 <pubDate>Mon, 26 May 2025 08:00:00 GMT</pubDate>
 <itunes:duration>10:00</itunes:duration>
